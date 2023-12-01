@@ -1,4 +1,6 @@
 # Lab2
+**Conecta 4**
+
 Este taller fue realizado en visual studio code.
 para compilar use el siguiente comando por consola: g++ -o main main.cpp
 
