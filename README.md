@@ -1,6 +1,7 @@
 # Lab2
 Este taller fue realizado en visual studio code.
 para compilar use el siguiente comando por consola: g++ -o main main.cpp
+
 para ejecutar el archivo compilado use el siguiente comando por consola: ./main.exe
 
 El tablero es 6x7 constituido por vector<vector<int>> donde los espacios vacíos del tablero se representan con un 0, las fichas del jugador con un -1 y las fichas de la maquina con un 1.
